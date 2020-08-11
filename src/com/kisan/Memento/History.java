@@ -12,6 +12,8 @@ public class History {
     }
 
     public EditorState pop() {
+        for (var item : states)
+            System.out.println(item);
         var lastIndex = states.size() - 1;
         var lastState = states.get(lastIndex);
         states.remove(lastState);

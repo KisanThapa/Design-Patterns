@@ -12,4 +12,10 @@ public class EditorState {
         return content;
     }
 
+    @Override
+    public String toString() {
+        return "EditorState{" +
+                "content='" + content + '\'' +
+                '}';
+    }
 }
