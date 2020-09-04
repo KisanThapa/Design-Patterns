@@ -1,0 +1,2 @@
+####4. Singleton with bill pugh solution
+Bill Pugh was main force behind the java memory model changes. His principle “Initialization-on-demand holder idiom” also uses the static block idea, but in a different way. It suggest to use static inner class.
