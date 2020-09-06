@@ -1,6 +1,6 @@
-package com.kisan.BehavioralDesignPatterns.CommandPattern;
+package com.kisan.BehavioralDesignPatterns.CommandPattern.ImplementationMosh;
 
-import com.kisan.BehavioralDesignPatterns.CommandPattern.fx.Command;
+import com.kisan.BehavioralDesignPatterns.CommandPattern.ImplementationMosh.fx.Command;
 
 public class AddCustomerCommand implements Command {
 

@@ -1,4 +1,4 @@
-package com.kisan.BehavioralDesignPatterns.CommandPattern;
+package com.kisan.BehavioralDesignPatterns.CommandPattern.ImplementationMosh;
 
 public class CustomerService {
     public void addCustomer() {
